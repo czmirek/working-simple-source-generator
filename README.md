@@ -1,7 +1,7 @@
-# Working simple source generator (November 2020)
-The simplest sample of the C# source generator. 
+# Working simple C# source generator (November 2020)
+The simplest sample of the C# source generator.
 
-I had troubles I had troubles with using the official samples from the Roslyn repo so I created my own working example.
+I had troubles withthe official samples from the Roslyn repo so I created my own working example.
 
 Important notes:
 - The Generator project must be **netstandard2.0** (nothing else works)
